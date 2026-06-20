@@ -1,0 +1,16 @@
+.contact-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  font-family: var(--font-mono);
+  font-size: 0.98rem;
+}
+
+.contact-grid a {
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.contact-grid a:hover {
+  color: var(--accent-backend);
+}
