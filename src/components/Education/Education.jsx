@@ -8,10 +8,10 @@ function Education() {
     <section id="education" ref={ref} className={`reveal ${inView ? 'in-view' : ''}`}>
       <h2 className="section-label">Opleiding</h2>
       <div className="timeline-item">
-        <div className="timeline-date">2023 — heden</div>
+        <div className="timeline-date">2025 — heden</div>
         <div>
           <h3>AP Hogeschool Antwerpen</h3>
-          <p>Bachelor Toegepaste Informatica — Full Stack Development</p>
+          <p>Graduaat Programmeren — Full Stack Development</p>
         </div>
       </div>
     </section>
